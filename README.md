@@ -1,5 +1,11 @@
 ## Hi, I'm Lucas 👋
 
+I'm a Product Manager with 10+ years delivering large-scale data and digital transformations  across finance, government, insurance, logistics, and software — serving millions of users and leading cross-functional engineering teams of 30+.
+
+
+- 🔭 I’m currently working on Computer Vision to fincrime by applying pre-trained models
+
+
 <!--
 **hlucaspace/hlucaspace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
