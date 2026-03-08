@@ -1,9 +1,10 @@
 ## Hi, I'm Lucas 👋
 
-I'm a Product Manager with 10+ years delivering large-scale data and digital transformations  across finance, government, insurance, logistics, and software — serving millions of users and leading cross-functional engineering teams of 30+.
+I'm a Product Manager with 10+ years delivering large-scale data and digital transformations  across finance, government, insurance, logistics, and software — serving millions of users and leading cross-functional engineering teams of 30+. I'm currently expanding into AI product management — independently building and evaluating AI proof of concepts applied to real-world industry problems
 
 
-- 🔭 Currently expanding into AI product management — independently building and evaluating AI proof of concepts applied to real-world industry problems, starting with Computer Vision for financial crime detection.
+**What I currently work on**
+- Computer Vision for financial crime detection.
 
 
 <!--
