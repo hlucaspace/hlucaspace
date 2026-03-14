@@ -4,8 +4,11 @@ I'm a Product Manager with 10+ years delivering large-scale data and digital tra
 
 
 **What I currently work on**
-- Computer Vision for financial crime detection.
+- Sentimental Analysis
 
+
+**Portfolio Contents**
+1. [Computer Vision](https://github.com/hlucaspace/fincrime_computer_vision_detector)
 
 <!--
 **hlucaspace/hlucaspace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
