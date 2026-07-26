@@ -4,7 +4,7 @@ I'm a Product Manager with 10+ years delivering large-scale data and digital tra
 
 
 **What I currently work on**
-- Sentimental Analysis
+- Knowledge Graph
 
 
 **Portfolio Contents**
